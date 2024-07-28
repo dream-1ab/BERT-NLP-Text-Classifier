@@ -1,0 +1,45 @@
+[
+    {"label": 0, "prompt": "other than LED"},
+    {"label": 1, "prompt": "Turn on the LED lamp please."},
+    {"label": 1, "prompt": "Please switch the light on"},
+    {"label": 1, "prompt": "It's too dark in here"},
+    {"label": 1, "prompt": "There was too dark"},
+    {"label": 1, "prompt": "I can't see/read, too dark"},
+    {"label": 2, "prompt": "Could you turn off the light?"},
+    {"label": 2, "prompt": "I's enough to bright."},
+    {"label": 2, "prompt": "Turn off the LED lamp please."},
+    {"label": 2, "prompt": "It's too bright in here"},
+    {"label": 2, "prompt": "Could you turn off the light?"},
+    {"label": 2, "prompt": "Please switch the light off."},
+    {"label": 2, "prompt": "I going to sleep"},
+    
+
+
+    {"label": 1, "prompt": "Turn on the LED"},
+    {"label": 1, "prompt": "Turn on the LED now"},
+    {"label": 1, "prompt": "Turn on the LED immediately"},
+    {"label": 1, "prompt": "Turn on the LED please"},
+    {"label": 1, "prompt": "Turn on the LED quickly"},
+    {"label": 1, "prompt": "Activate the LED"},
+    {"label": 1, "prompt": "Switch on the LED"},
+    {"label": 1, "prompt": "Start the LED"},
+    {"label": 2, "prompt": "Turn off the LED"},
+    {"label": 2, "prompt": "Turn off the LED now"},
+    {"label": 2, "prompt": "Turn off the LED immediately"},
+    {"label": 2, "prompt": "Turn off the LED please"},
+    {"label": 2, "prompt": "Deactivate the LED"},
+    {"label": 2, "prompt": "Switch off the LED"},
+    {"label": 2, "prompt": "Stop the LED"},
+    {"label": 2, "prompt": "Power down the LED"},
+    {"label": 2, "prompt": "Cut the power to the LED"},
+    {"label": 2, "prompt": "Put out the LED"},
+    {"label": 0, "prompt": "greeting"},
+    {"label": 0, "prompt": "unknown commands"},
+
+
+    {"label": 3, "prompt": "shutdown computer"},
+    {"label": 3, "prompt": "poweroff computer"},
+    {"label": 3, "prompt": "turn off computer"},
+    {"label": 4, "prompt": "turn on computer"},
+    {"label": 4, "prompt": "open computer"}
+]
